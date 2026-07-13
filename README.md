@@ -1,4 +1,4 @@
-# animetsu-api
+# animetsu-api (Animetsu is DEAD)
 
 A small, fast, well-behaved REST wrapper around `animetsu.live`'s public
 backend. It normalizes responses, caches the slow stuff, papers over a few
